@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    My awesome team: Sam, Sophie
 # THANKS
 
     <name>
