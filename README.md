@@ -12,7 +12,7 @@ This is a purpose
 
 ## How to Contribute
 
-DO this
+I'm now making changes to master and a feature branch to make the merge more complex
 
 ## Deployment
 
