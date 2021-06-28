@@ -1,10 +1,11 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. I am now learning about rebasing.
+This repository is for showing how Git and GitHub work. I am now learning about rebasing, then I'll add more changes.
 
 ## Introduction
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+A second change for rebasing example.
 
 ## Purpose
 
