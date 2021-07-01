@@ -25,4 +25,4 @@ This is annoying
 
 ### Copyright
 
-Notice goes here
+EDIT! Notice goes here
